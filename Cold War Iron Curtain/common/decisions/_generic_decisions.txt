@@ -99,8 +99,13 @@ variables_calculation_category = {
 
 			set_variable = { root.un_state_target_owner = 0 }
 			set_variable = { root.un_action_set = 0 }
+<<<<<<< HEAD
 			set_variable = { root.un_nation_target = 0 }			
 			set_variable = { UNS.coalition_tag = 0 }
+=======
+			set_variable = { root.un_nation_target = 0 }		
+			set_variable = { UNS.coalition_tag = 0 }	
+>>>>>>> origin/USA-50s-Rework
 
 			clear_array = UNS.un_vote_abstain_list
 			clear_array = UNS.un_vote_no_list
